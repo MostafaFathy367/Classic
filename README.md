@@ -1,5 +1,8 @@
 ## Classic
 
+![Hero Section](./images/Screenshot-1.png)
+![Project Section](./images/Screenshot-2.png)
+
 ## Personal Portfolio 💼
 This is a personal portfolio website built using HTML, CSS, and JavaScript – without any frameworks.
 It features a clean, responsive, and animated design to showcase personal information and projects in a professional way.
